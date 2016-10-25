@@ -1,0 +1,19 @@
+{
+  "name": "css-sprite",
+  "version": "1.0.0",
+  "description": "css sprite",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "css",
+    "sprite"
+  ],
+  "author": "hjh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
